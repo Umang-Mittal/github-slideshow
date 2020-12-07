@@ -2,6 +2,5 @@
 layout: slide
 title: "Welcome to our Github Desktop Edited slide!"
 ---
-This is github testing slide 1
-This is github testing slide 1 line 2
+This is my awesome slide
 Use the left arrow to go back!
